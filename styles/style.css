@@ -25,6 +25,11 @@ body {
     font-size: 24px;
     font-weight: 600;
     color:#22D4FD;
+    text-decoration: none;
+}
+
+.cabecalho__menu__link:hover {
+    font-size: 26px;
 }
 
 .apresentacao {
@@ -32,7 +37,7 @@ body {
     align-items: center;
     justify-content: space-between;
     height: auto;
-    padding: 9% 15%;
+    padding: 5% 15% 12.5% 15%;
 }
 
 .apresentacao__conteudo {
